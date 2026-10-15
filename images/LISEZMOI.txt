@@ -1,0 +1,14 @@
+Déposez ici les photos avec ces noms exacts (JPG).
+Une photo absente affiche un visuel de remplacement : rien ne casse.
+
+hero-saviese.jpg
+cat-fondues-fromage.jpg  cat-fondues-viande.jpg  cat-raclette.jpg  cat-entrees.jpg
+cat-salades.jpg  cat-pates.jpg  cat-viandes.jpg  cat-suggestions.jpg
+cat-aperitifs.jpg  cat-vins.jpg  cat-bieres.jpg  cat-spiritueux.jpg
+cat-sans-alcool.jpg  cat-boissons-chaudes.jpg
+p-fondue-maison.jpg  p-fondue-royale.jpg  p-fondue-chinoise.jpg  p-raclette-tradition.jpg
+p-assiette-valaisanne.jpg  p-malakoff.jpg  p-emince-zurichoise.jpg  p-filets-perche.jpg
+p-croute-royale.jpg  p-rosti-royal.jpg
+
+Après réception, chaque photo sera aussi déclinée en version 800 px (nom-800.jpg).
+Pour remplacer une photo : champs "image", "imageSmall" et "imageFocus" dans content/menu-data.js.
